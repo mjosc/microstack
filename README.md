@@ -1,4 +1,5 @@
 # microstack
+> This project is currently on hold. No non-boilerplate code has been added. Check back soon for updates.
 ```
 Web api built in C#, Java, and Node +
   Client built in TypeScript with React = 
